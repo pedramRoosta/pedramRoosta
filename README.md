@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pedramRoosta
-- 👀 I’m interested in programming specially in frontend development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on interesting react projects
+- 👀 I’m interested in programming specially in the mighty FLUTTER
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on interesting flutter projects
 - 📫 How to reach me ? just email me at pediroosta@gmail.com
 
 <!---
